@@ -1,0 +1,259 @@
+#-------------------------------
+# Site Settings
+title: /member
+description: seize the memes of reproduction 🫡
+logo:  # You can add own logo. For example "/images/logo.svg".
+logo_dark: 
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: 'home'
+      url: '/'
+    - url: '/about/'
+      title: 'about'
+    - title: 'projects'
+      url: '/projects/'
+    - title: 'farcaster'
+      exturl: 'https://warpcast.com/~/channel/members-only'
+    - title: 'memes'
+      exturl: 'https://uplink.wtf/member/mintboard'
+    - title: 'chart'
+      exturl: 'https://dexscreener.com/base/0xa4efe9e8e2a2d5a2ac46805f233b8e49d0e11955'
+    - title: 'dao'
+      exturl: 'https://nouns.build/dao/base/0xFBfe187b444798214Dd4BbfAdE369F8DC3864C6a'
+
+# Call to action button
+cta_button:
+  enable: true
+  cta_button_link: 'https://matcha.xyz/tokens/base/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9'
+  cta_button_text: buy now
+
+
+#-------------------------------
+# Author Settings
+author:
+  author_name: "hardmoney"
+  author_avatar: "/images/01-1.jpg"
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_title: seize the memes of reproduction
+  hero_description: member is certified organic, nutting edge meme technology. helping you thrustle harder on your way to phalhalla. full throbble. join the enlengthened ones. the dicker is $member 🫡
+
+# Hero Logos
+hero_logos:
+  enable: true
+
+hero_logo_image:
+  - alt: "Base"
+    image: "/images/base.png"
+
+  - alt: "Uniswap"
+    image: "/images/uniswap.png"
+
+  - alt: "Mint Club"
+    image: "/images/mintclub.png"
+
+  - alt: "Farcaster"
+    image: "/images/farcaster.png"
+
+  - alt: "Coinvise"
+    image: "/images/coinvise.png"
+
+  - alt: "Uplink"
+    image: "/images/uplink.svg"
+
+  - alt: "Nouns"
+    image: "/images/nouns.png"
+  
+  - alt: "Builder"
+    image: "/images/builder.png"
+
+  - alt: "Zora"
+    image: "/images/zora.png"
+
+#-------------------------------
+# Slider Featured Settings
+featured:
+  enable: false
+  featured_title: member go up
+
+
+#-------------------------------
+# Projects Section Settings
+projects:
+  enable: true
+  projects_title: member go up
+  projects_description: it's not the size of the member it's how they remember it 🫨
+
+
+#-------------------------------
+# Testimonials Section Settings
+testimonials:
+  enable: true
+  testimonials_intro: testemoanials
+  testimonials_title: what our members (might) say...
+  testimonials_info: join over <b>18k+</b> members
+
+testimonial_items:
+  - name: "@jessepollak"
+    image: "/images/client-1.jpg"
+    designation: "face of base"
+    title: "the future of memberships"
+    content : "i truly believe that member is the future of membership. ever since meeting my fellow members i've been been unable to stop thinking about their members"
+
+  - name: "@mleejr"
+    image: "/images/client-2.jpg"
+    designation: "writing mfer"
+    title: "all time hard"
+    content : "it seems that every time i check my member it's reaching all time hard. i've never been so ready to go so hard so often. i've got one setting now. full throbble"
+
+  - name: "@ace"
+    image: "/images/client-3.jpg"
+    designation: "full sack dev"
+    title: "irresponsibly long member"
+    content : "i've been long member since before member had even been around very long. now i'm so long member that i can't get any longer. a la la la la long long li long long long"
+
+  - name: "@justin926"
+    image: "/images/client-4.jpg"
+    designation: "farcaster"
+    title: "just breathing heavy"
+    content : "when i first found member it was coming soon. now it's no longer coming soon but i feel that i am. or am i just breathing heavy? no wait, i'm definitely coming soon"
+
+  - name: "@hotgreensauce"
+    image: "/images/client-5.jpg"
+    designation: "film creator"
+    title: "comes in handy"
+    content : "lots of projects like to harp on about utility, but in member it's different, it really does come in handy. i've held my hand out numerous times and it alway comes in handy"
+    
+  - name: "@rohito"
+    image: "/images/client-6.jpg"
+    designation: "hulloer"
+    title: "cumedy special"
+    content : "member is like a digital comedy club except instead of two drink minimums, i'm required to have two giggle minimums. i've never felt more financially secure or more amused at the same time"
+
+#-------------------------------
+# Faq (Frequently asked questions) Settings
+faq:
+  enable: true
+  faq_title: frequently assed questions
+  faq_intro: what duh fack?
+  faq_items:
+    - title: what is member?
+      description: member is an erc20 meme token on base 
+    - title: how can i purchase member?
+      description: 'member is available for purchase from the uniswap v3 liquidity pool at base:0xa4efe9e8e2a2d5a2ac46805f233b8e49d0e11955'
+    - title: what is the contract address?
+      description: 'base:0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9'
+    - title: which blockchain is it on?
+      description: member is deployed on base which is an ethereum layer two using the op stack
+    - title: what is the token supply?
+      description: the max total supply is 4,025,000,000 member (that's 4.025 billion)
+    - title: are there any airdrops?
+      description: 50% of the member supply was distributed through airdrops which are now completed
+    - title: is there liquidity mining?
+      description: 20% of the member supply is being distributed as rewards to liquidity providers
+    - title: are there memelord rewards?
+      description: 5% of the member supply is being distributed as rewards to the best meme creators
+    - title: does member only go up?
+      description: sometimes member go up and sometime member go down and you should never own more member than you can afford to lose. just the tip
+    - title: is there an ecosystem fund?
+      description: 10% of the member supply is held by member dao along with eth for distribution as grants
+    - title: are there any legal disclaimers?
+      description: although member is nutting edge technology, member is also just a token with no intrinsic value or expectation of financial return. member is to be used strictly for entertainment purposes. only put in what you're willing to lose. just the tip.
+    - title: what are the tokenomics?
+      description: 50% community through airdrops to gami's nft collectors • 20% LP rewards • 14% initial liquidty pool (dao held) • 10% ecosystem fund (dao held) • 5% meme rewards • 1% protocol guild pledge
+    - title: is liquidity locked?
+      description: the initial uniswap v3 liquidity position is held by member dao which is fully onchain just like nouns dao
+    - title: cunnilingo?
+      description: 'some member lingo: member go up, member go hard, the dicker is member, hard money, nutting edge technology, the future of memberships, fac, facker, facking, phalhalla, phalhalla awaits, fack your way to phalhalla, the englengthened ones, full sack developer, decircumsised autenormous organstation, seize the memes of reproduction, united states dongers, 1 member > 1 dong, stablecoitus, proof of jerk, scrotocol, base token, hold member, go up, show me your member, certified organic, buy the dip • sell the tip, comes in handy, testemoanials, long member, short member, member of society, !size, fapcaster, full throbble, thrustle harder, all time hard, market fap, just the tip'
+
+
+#-------------------------------
+# Blog Section Settings
+blog:
+  enable: false
+  blog_intro: latest
+  blog_title: read our flog
+
+
+#-------------------------------
+# Author Section Settings
+author_section:
+  enable: true
+  author_section_title: "no rest until beeple draws dick wif hat"
+  author_section_description: <a href="https://gami.wtf/" target="_blank">gami</a> is the founding member and initial cumtributor. he's a hyperpunk, nouner and positive-sum propagandist, who started gnars dao, among a number of other minor successes. he's getting a member tattoo at $69 million market fap 🫡
+  author_section_image: "/images/01.png"
+  author_section_image_alt: gami
+  author_section_button_text: buy member now
+  author_section_button_link: "https://matcha.xyz/tokens/base/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9"
+
+
+#-------------------------------
+# Footer Settings
+
+# Footer Navigation
+footer_menu__settings:
+  menu__items:
+    - title: 'home'
+      url: '/'
+    - url: '/about/'
+      title: 'about'
+    - title: 'projects'
+      url: '/projects/'
+    - title: 'farcaster'
+      exturl: 'https://warpcast.com/~/channel/members-only'
+    - title: 'memes'
+      exturl: 'https://uplink.wtf/member/mintboard'
+    - title: 'chart'
+      exturl: 'https://dexscreener.com/base/0xa4efe9e8e2a2d5a2ac46805f233b8e49d0e11955'
+    - title: 'dao'
+      exturl: 'https://nouns.build/dao/base/0xFBfe187b444798214Dd4BbfAdE369F8DC3864C6a'
+
+# Social Links
+social:
+- {icon: "fa-regular fa-comments", name: "Farcaster", link: "https://warpcast.com/~/channel/members-only"}
+- {icon: "fa-brands fa-github", name: "GitHub", link: "https://github.com/0xigami"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com/mlmwtf"}
+- {icon: "fa-brands fa-figma", name: "Figma", link: "https://www.figma.com/community/file/1339039280002577201/member"}
+- {icon: "fa-regular fa-envelope", name: "Email", link: "mailto:gm@member.clinic"}
+
+# Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: false
+  mailchimp_title: keep a dinger on the pulse
+  mailchimp_description: weekly updates with all the latest member news
+  mailchimp_identifier: # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Your email address
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: gm@member.clinic # Add your form_id
+  description: # Add a description of your form
+
+# NOTE
+# Gerous theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus_identifier: # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: # Add your GA Tracking Id
