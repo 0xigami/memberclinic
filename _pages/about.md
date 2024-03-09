@@ -52,7 +52,7 @@ members pride themselves on being early adopters of the latest and greatest tech
 
 every time a member achieves 100 cumulative mints (sales) of their meme submissions, they're able to claim 1,000,000 member tokens. this is made possible by strategic partnerships with the incredibly helpful teams at [uplink](https://uplink.wtf) and [coinvise](https://coinvise.co).
 
-### 🏦 [member backed assets](#member-backed-assets)
+### 🏦 member backed assets
 
 speaking of strategic partners, we've been very fortunate to work closely with [mint.club](https://mint.club) on our flagship example of member backed assets. by visiting [coinmembercap.com](https://coinmembercap.com/) you'll quickly realise how popular this experiment has been with the farcaster community.
 
