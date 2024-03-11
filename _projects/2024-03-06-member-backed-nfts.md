@@ -2,9 +2,11 @@
 title: member backed bonding curve asset rankings
 date: 2024-03-06 00:00:0 +0000
 label: mint.club
-image: '/images/coinmember-cap.png'
+image: '/images/coingerkin.png'
 featured:
 ---
+
+![](/images/coinmember-cap.png)
 
 we've been very fortunate to work closely with [mint.club](https://mint.club) on our flagship example of member backed assets. by visiting [coinmembercap.com](https://coinmembercap.com/) you'll quickly realise how popular this experiment has been with the farcaster community.
 

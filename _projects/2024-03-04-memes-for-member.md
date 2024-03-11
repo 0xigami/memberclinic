@@ -2,9 +2,11 @@
 title: member rewards for aspiring memelords
 date: 2024-03-04 00:00:0 +0000
 label: uplink.wtf
-image: '/images/memes-for-member.png'
+image: '/images/pepember.png'
 featured:
 ---
+
+![](/images/memes-for-member.png)
 
 [memes for member](https://uplink.wtf/member/mintboard) encourages members to create their best member memes, post them to our mintboard, earn zora protocol rewards (eth) when collected, and earn even more eth when others' memes are collected via their reflink. 
 

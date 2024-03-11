@@ -36,7 +36,7 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_name: "hardmoney"
+  author_name: "𓂸"
   author_avatar: "/images/01-1.jpg"
 
 
@@ -188,10 +188,10 @@ blog:
 # Author Section Settings
 author_section:
   enable: true
-  author_section_title: "no rest until beeple draws dick wif hat"
-  author_section_description: <a href="https://gami.wtf/" target="_blank">gami</a> is the founding member and initial cumtributor. he's a hyperpunk, nouner and positive-sum propagandist, who started gnars dao, among a number of other minor successes. he's getting a member tattoo at $69 million market fap 🫡
-  author_section_image: "/images/01.png"
-  author_section_image_alt: gami
+  author_section_title: "hard money"
+  author_section_description: meme long enough on /member as a base token and we have hard money sacked by proof of jerk. seize the memes of reproduction and make member go up until global reserve cummency status 💸
+  author_section_image: "/images/hard-money.png"
+  author_section_image_alt: hard money
   author_section_button_text: buy member now
   author_section_button_link: "https://matcha.xyz/tokens/base/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9"
 

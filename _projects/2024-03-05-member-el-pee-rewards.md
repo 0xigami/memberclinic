@@ -2,9 +2,11 @@
 title: member el pee rewards for uniswap liquidity providers
 date: 2024-03-05 00:00:0 +0000
 label: coinvise.co
-image: '/images/el-pee-rewards.png'
+image: '/images/liquidity.png'
 featured:
 ---
+
+![](/images/el-pee-rewards.png)
 
 members understand the importance of liquidity when it comes to growth, therefore a well designed liquidity mining program has been implemented. the "[member el pee](https://www.coinvise.co/gami)" program rewards 20% of member token supply to uniswap v3 liquidity providers on 0.3% fee.
 
