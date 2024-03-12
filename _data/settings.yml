@@ -1,9 +1,10 @@
 #-------------------------------
 # Site Settings
-title: /member
-description: seize the memes of reproduction 🫡
-logo:  # You can add own logo. For example "/images/logo.svg".
-logo_dark: 
+title: member go up
+description: is member a memecoin? fack around and find out 🫡
+logo: /images/member.gif # You can add own logo. For example "/images/logo.svg".
+logo_dark: /images/member.gif
+logo_footer: /images/hardmoney.png
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -11,20 +12,40 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu_settings:
   menu_items:
-    - title: 'home'
-      url: '/'
+    - url: '/'
+      title: 'home'
     - url: '/about/'
       title: 'about'
     - title: 'projects'
       url: '/projects/'
-    - title: 'farcaster'
+    - title: 'fapcaster'
       exturl: 'https://warpcast.com/~/channel/members-only'
+      submenu:
+      - exturl: "https://warpcast.com/~/channel/members-only"
+        title: "/members-only"
+      - exturl: "https://warpcast.com/~/channel/member"
+        title: "/member"
+      - exturl: "https://warpcast.com/~/channel/back"
+        title: "/back"
+      - exturl: "https://warpcast.com/~/channel/over"
+        title: "/over"
+      - exturl: "https://warpcast.com/~/channel/fack"
+        title: "/fack"
+      - exturl: "https://warpcast.com/~/channel/tip"
+        title: "/tip"
+      - exturl: "https://warpcast.com/~/channel/in"
+        title: "/in"
     - title: 'memes'
       exturl: 'https://uplink.wtf/member/mintboard'
     - title: 'chart'
       exturl: 'https://dexscreener.com/base/0xa4efe9e8e2a2d5a2ac46805f233b8e49d0e11955'
     - title: 'dao'
       exturl: 'https://nouns.build/dao/base/0xFBfe187b444798214Dd4BbfAdE369F8DC3864C6a'
+      submenu:
+      - exturl: "https://nouns.build/dao/base/0xFBfe187b444798214Dd4BbfAdE369F8DC3864C6a"
+        title: "join dao"
+      - exturl: "https://warpcast.com/~/group/M81VCp0nRdyJ-5VGQvyqJA"
+        title: "dao chat"
 
 # Call to action button
 cta_button:
@@ -36,7 +57,7 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_name: "𓂸"
+  author_name: "$member"
   author_avatar: "/images/01-1.jpg"
 
 
@@ -44,8 +65,8 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_title: seize the memes of reproduction
-  hero_description: member is certified organic, nutting edge meme technology. helping you thrustle harder on your way to phalhalla. full throbble. join the enlengthened ones. the dicker is $member 🫡
+  hero_title: member is a memecoin
+  hero_description: member is certified organic, nutting edge technology on base. helps you thrustle harder on the way to phalhalla. full throbble. seize the memes of reproduction. the dicker is $member
 
 # Hero Logos
 hero_logos:
@@ -90,8 +111,8 @@ featured:
 # Projects Section Settings
 projects:
   enable: true
-  projects_title: member go up
-  projects_description: it's not the size of the member it's how they remember it 🫨
+  projects_title: fack around
+  projects_description:
 
 
 #-------------------------------
@@ -99,7 +120,7 @@ projects:
 testimonials:
   enable: true
   testimonials_intro: testemoanials
-  testimonials_title: what our members (might) say...
+  testimonials_title: members (might) say...
   testimonials_info: join over <b>18k+</b> members
 
 testimonial_items:
@@ -188,10 +209,10 @@ blog:
 # Author Section Settings
 author_section:
   enable: true
-  author_section_title: "hard money"
+  author_section_title: "fack around and find out with member 🫡"
   author_section_description: meme long enough on /member as a base token and we have hard money sacked by proof of jerk. seize the memes of reproduction and make member go up until global reserve cummency status 💸
-  author_section_image: "/images/hard-money.png"
-  author_section_image_alt: hard money
+  author_section_image: "/images/fafo.png"
+  author_section_image_alt: fafo
   author_section_button_text: buy member now
   author_section_button_link: "https://matcha.xyz/tokens/base/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9"
 
@@ -202,13 +223,11 @@ author_section:
 # Footer Navigation
 footer_menu__settings:
   menu__items:
-    - title: 'home'
-      url: '/'
     - url: '/about/'
       title: 'about'
     - title: 'projects'
       url: '/projects/'
-    - title: 'farcaster'
+    - title: 'fapcaster'
       exturl: 'https://warpcast.com/~/channel/members-only'
     - title: 'memes'
       exturl: 'https://uplink.wtf/member/mintboard'
