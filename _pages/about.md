@@ -34,6 +34,11 @@ as a token on [base](https://www.base.org/), the vision for member, is that it a
 - 5% [meme rewards](https://basescan.org/token/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9?a=0x45ce283c2a12df1bf69802fd2c1e5398228f939d) program contract allocation
 - 1% commitment made to [protocol guild pledge](https://twitter.com/ProtocolGuild/status/1757913091462041621)
 
+**<span id="api-data-header">loading...</span> circulating supply (live data)**
+
+- [total supply](https://api.member.clinic/total_supply.txt) - `https://api.member.clinic/total_supply.txt`
+- [circulating supply](https://api.member.clinic/circulating_supply.txt) - `https://api.member.clinic/circulating_supply.txt`
+
 the member [dao treasury](https://basescan.org/token/0x03a520b32c04bf3beef7beb72e919cf822ed34f1?a=0xf2a6f079f507a3a1b70f8a1943b434e194c036ee) also holds the initial uniswap v3 liquidity position, meaning it's effectively locked behind decentralised, fully onchain governance. member token itself does not have voting rights. instead, anyone is able to bid in daily nft auctions with eth to join. 
 
 ![](/images/member-dao.png)

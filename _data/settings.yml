@@ -47,6 +47,7 @@ menu_settings:
       - exturl: "https://warpcast.com/~/group/M81VCp0nRdyJ-5VGQvyqJA"
         title: "dao chat"
 
+
 # Call to action button
 cta_button:
   enable: true
@@ -57,7 +58,7 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_name: "$member"
+  author_name: '<span id="fdv-usd">loading...</span>'
   author_avatar: "/images/01-1.jpg"
 
 
