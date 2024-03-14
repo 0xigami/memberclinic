@@ -82,7 +82,7 @@ thanks to the fine folks at coinvise, custom unsiwap integration facilitates a s
   </table>
 </div>
 
-claims are open and early liquidity providers, who've supported the project since day one, are encouraged to visit our convise claims page once the 30 day minimum has been met. if you're unsure if this is you, simply check days since your relevant transactions on basescan.
+claims are open and early liquidity providers, who've supported the project since day one, are encouraged to visit our convise claims page once the 28 day minimum has been met. if you're unsure if this is you, simply check days since your relevant transactions on basescan.
 
 members can add liquidity [here](https://app.uniswap.org/add/ETH/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9/3000?minPrice=0.0000000000000000000000000000000000000029543&maxPrice=338490000000000000000000000000000000000).
 
