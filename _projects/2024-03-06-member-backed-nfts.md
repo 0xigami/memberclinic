@@ -2,7 +2,7 @@
 title: member backed bonding curve asset rankings
 date: 2024-03-06 00:00:0 +0000
 label: mint.club
-image: '/images/coingerkin.png'
+image: '/images/memelord.png'
 featured:
 ---
 

@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
-title: member go up
+title: member
 description: is member a memecoin? fack around and find out 🫡
-logo: /images/member.gif # You can add own logo. For example "/images/logo.svg".
-logo_dark: /images/member.gif
+logo: # You can add own logo. For example "/images/logo.svg".
+logo_dark:
 logo_footer: /images/hardmoney.png
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -12,8 +12,8 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu_settings:
   menu_items:
-    - url: '/'
-      title: 'home'
+    - exturl: 'https://www.coingecko.com/en/coins/member'
+      title: '<img src="/images/coingecko.png" width="24px"> <span id="fdv-usd">loading...</span>'
     - url: '/about/'
       title: 'about'
     - title: 'projects'
@@ -60,7 +60,7 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_name: '<span id="fdv-usd">loading...</span>'
+  author_name: 'memes is money'
   author_avatar: "/images/01-1.jpg"
 
 
@@ -85,6 +85,9 @@ hero_logo_image:
   - alt: "Mint Club"
     image: "/images/mintclub.png"
 
+  - alt: "CoinGecko"
+    image: "/images/coingecko.png"
+  
   - alt: "Farcaster"
     image: "/images/farcaster.png"
 
@@ -94,8 +97,8 @@ hero_logo_image:
   - alt: "Uplink"
     image: "/images/uplink.svg"
 
-  - alt: "Nouns"
-    image: "/images/nouns.png"
+  - alt: "Prop House"
+    image: "/images/prophouse.png"
   
   - alt: "Builder"
     image: "/images/builder.png"
