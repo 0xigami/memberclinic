@@ -35,7 +35,7 @@ menu_settings:
         title: "/tip"
       - exturl: "https://warpcast.com/~/channel/in"
         title: "/in"
-    - title: 'telegam'
+    - title: 'telegram'
       exturl: 'https://t.me/member_clinic'
     - title: 'memes'
       exturl: 'https://uplink.wtf/member/mintboard'
@@ -235,7 +235,7 @@ footer_menu__settings:
       url: '/projects/'
     - title: 'fapcaster'
       exturl: 'https://warpcast.com/~/channel/members-only'
-    - title: 'telegam'
+    - title: 'telegram'
       exturl: 'https://t.me/member_clinic'
     - title: 'memes'
       exturl: 'https://uplink.wtf/member/mintboard'
