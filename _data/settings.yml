@@ -35,6 +35,8 @@ menu_settings:
         title: "/tip"
       - exturl: "https://warpcast.com/~/channel/in"
         title: "/in"
+    - title: 'telegam'
+      exturl: 'https://t.me/member_clinic'
     - title: 'memes'
       exturl: 'https://uplink.wtf/member/mintboard'
     - title: 'chart'
@@ -230,6 +232,8 @@ footer_menu__settings:
       url: '/projects/'
     - title: 'fapcaster'
       exturl: 'https://warpcast.com/~/channel/members-only'
+    - title: 'telegam'
+      exturl: 'https://t.me/member_clinic'
     - title: 'memes'
       exturl: 'https://uplink.wtf/member/mintboard'
     - title: 'chart'
@@ -239,7 +243,7 @@ footer_menu__settings:
 
 # Social Links
 social:
-- {icon: "fa-regular fa-comments", name: "Farcaster", link: "https://warpcast.com/~/channel/members-only"}
+- {icon: "fa-brands fa-telegram", name: "Telegram", link: "https://t.me/member_clinic"}
 - {icon: "fa-brands fa-github", name: "GitHub", link: "https://github.com/0xigami"}
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com/mlmwtf"}
 - {icon: "fa-brands fa-figma", name: "Figma", link: "https://www.figma.com/community/file/1339039280002577201/member"}
