@@ -20,21 +20,6 @@ menu_settings:
       url: '/projects/'
     - title: 'fapcaster'
       exturl: 'https://warpcast.com/~/channel/members-only'
-      submenu:
-      - exturl: "https://warpcast.com/~/channel/members-only"
-        title: "/members-only"
-      - exturl: "https://warpcast.com/~/channel/member"
-        title: "/member"
-      - exturl: "https://warpcast.com/~/channel/back"
-        title: "/back"
-      - exturl: "https://warpcast.com/~/channel/over"
-        title: "/over"
-      - exturl: "https://warpcast.com/~/channel/fack"
-        title: "/fack"
-      - exturl: "https://warpcast.com/~/channel/tip"
-        title: "/tip"
-      - exturl: "https://warpcast.com/~/channel/in"
-        title: "/in"
     - title: 'telegram'
       exturl: 'https://t.me/member_clinic'
     - title: 'chart'
