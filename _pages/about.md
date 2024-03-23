@@ -19,7 +19,7 @@ an immediate rebrand paid homage to the organic emergence of a genius phallic sp
 
 ![](/images/mlmfer-taliskye.png)
 
-the member distribution served a show of his appreciation to collectors of his works including [gnars](https://opensea.io/collection/gnars-v2), nouns hd on [zora](https://opensea.io/collection/nouns-hd) and [base](https://opensea.io/collection/nouns-hd-base), and [defrauds](https://zora.co/collect/eth:0xf7f9c097eabf928fbd8df6e056f9a01cabafb54d), as well as other select nfts, released as free mints on [zora](https://zora.co/gami.eth). collectors of various friends' collections were also included, as were those who completed various social proofs of work on farcaster and beyond.
+the member distribution served as a show of his appreciation to collectors of his works including [gnars](https://opensea.io/collection/gnars-v2), nouns hd on [zora](https://opensea.io/collection/nouns-hd) and [base](https://opensea.io/collection/nouns-hd-base), and [defrauds](https://zora.co/collect/eth:0xf7f9c097eabf928fbd8df6e056f9a01cabafb54d), as well as other select nfts, released as free mints on [zora](https://zora.co/gami.eth). collectors of various friends' collections were also included, as were those who completed certain social proofs of work on farcaster and beyond.
 
 ## 🧑‍🔬 nutting edge
 
@@ -28,18 +28,30 @@ as a token on [base](https://www.base.org/), the vision for member, is that it a
 **4,025,000,000 max total supply**
 
 - 50% airdropped to an existing support network
-- 20% allocated to [LP rewards](https://www.coinvise.co/gami) program contract
-- 14% creation of initial uniswap v3 [liquidity pool](https://basescan.org/token/0x03a520b32c04bf3beef7beb72e919cf822ed34f1?a=0xf2a6f079f507a3a1b70f8a1943b434e194c036ee)
+- 15% creation of initial uniswap v3 [liquidity pool](https://basescan.org/token/0x03a520b32c04bf3beef7beb72e919cf822ed34f1?a=0xf2a6f079f507a3a1b70f8a1943b434e194c036ee)
+- 12% allocated to [LP rewards](https://basescan.org/token/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9?a=0x542ffb7d78d78f957895891b6798b3d60e979b64) program contract
 - 10% [ecosystem fund](https://basescan.org/token/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9?a=0xf2a6f079f507a3a1b70f8a1943b434e194c036ee) held in dao treasury ⌐◨-◨ 
-- 5% [meme rewards](https://basescan.org/token/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9?a=0x45ce283c2a12df1bf69802fd2c1e5398228f939d) program contract allocation
+- 7% crowd sale with party.app to [boost liquidity](https://base.party.app/party/0xcee74e2b1bac10710a7ea5a77d030461e5c5b831)
+- 5% [meme rewards](/project/memes-for-member) program contract allocation
 - 1% commitment made to [protocol guild pledge](https://twitter.com/ProtocolGuild/status/1757913091462041621)
 
-**<span id="api-data-header">loading...</span> circulating supply (live data)**
+*note: lp nft was [sent to 0x...dead](https://basescan.org/tx/0xe2a51a6012339e3b813e89e49b0c4b8c804805b54d3bccd0e33a03f8cc383f9f) to permanently lock the liquidity boost raised through crowd sale.*
 
-- [total supply](https://api.member.clinic/total_supply.txt) - `https://api.member.clinic/total_supply.txt`
-- [circulating supply](https://api.member.clinic/circulating_supply.txt) - `https://api.member.clinic/circulating_supply.txt`
+**<span id="api-data-header">loading...</span> supply (live data)**
 
-the member [dao treasury](https://basescan.org/token/0x03a520b32c04bf3beef7beb72e919cf822ed34f1?a=0xf2a6f079f507a3a1b70f8a1943b434e194c036ee) also holds the initial uniswap v3 liquidity position, meaning it's effectively locked behind decentralised, fully onchain governance. member token itself does not have voting rights. instead, anyone is able to bid in daily nft auctions with eth to join. 
+[total supply](https://api.member.clinic/total_supply.txt)
+
+```
+https://api.member.clinic/total_supply.txt
+```
+
+[circulating supply](https://api.member.clinic/circulating_supply.txt)
+
+```
+https://api.member.clinic/circulating_supply.txt
+```
+
+the member [dao treasury](https://basescan.org/token/0x03a520b32c04bf3beef7beb72e919cf822ed34f1?a=0xf2a6f079f507a3a1b70f8a1943b434e194c036ee) holds the initial uniswap v3 liquidity position, meaning it's effectively locked behind decentralised, fully onchain governance. member token itself does not have voting rights. instead, anyone is able to bid in daily nft auctions with eth to join. 
 
 ![](/images/member-dao.png)
 
@@ -49,15 +61,19 @@ this is thanks to [nouns.build](https://nouns.build/dao/base/0xFBfe187b444798214
 
 members pride themselves on being early adopters of the latest and greatest technologies for meme proliferation. we've been very fortunate to establish effective flywheels for the creation, distribution, and remuneration of memes produced by the community. 
 
+### 🍆 member got memes
+
+![](/images/memes-for-member.jpg)
+
+[member got memes](https://uplink.wtf/member/mintboard) encourages members to create their best member memes, post them to our mintboard, earn zora protocol rewards (eth) when collected, and earn even more eth when others' memes are collected via their reflink. 
+
 ### 💸 memes for member
 
-[memes for member](https://uplink.wtf/member/mintboard) encourages members to create their best member memes, post them to our mintboard, earn zora protocol rewards (eth) when collected, and earn even more eth when others' memes are collected via their reflink. 
+![](/images/meme-rounds.jpg)
 
-![](/images/memes-for-member.png)
+[memes for member](https://rounds.wtf) is our meme rewards program with rounds.wtf on a weekly basis. likes by token holders count as votes and at the end of each round, the member allocation is available to claim through a farcaster frame. simply post memes in /members-only and get those likes to qualify.
 
-every time a member achieves 100 cumulative mints (sales) of their meme submissions, they're able to claim 1,000,000 member tokens. this is made possible by strategic partnerships with the incredibly helpful teams at [uplink](https://uplink.wtf) and [coinvise](https://coinvise.co).
-
-### 🏦 member backed assets
+### 🏦 member backed memes
 
 speaking of strategic partners, we've been very fortunate to work closely with [mint.club](https://mint.club) on our flagship example of member backed assets. by visiting [coinmembercap.com](https://coinmembercap.com/) you'll quickly realise how popular this experiment has been with the farcaster community.
 
@@ -67,7 +83,7 @@ in collaboration with mint.club and [yougogirl.eth](https://warpcast.com/yougogi
 
 ## ✊ full throbble
 
-members understand the importance of liquidity when it comes to growth, therefore a well designed liquidity mining program has been implemented. the "[member el pee](https://www.coinvise.co/gami)" program rewards 20% of member token supply to uniswap v3 liquidity providers on 0.3% fee.
+members understand the importance of liquidity when it comes to growth, therefore a well designed liquidity mining program has been implemented. the "[member el pee](https://coinvise.co/gami)" program rewards member tokens to early uniswap v3 liquidity providers on 0.3% fee.
 
 ![](/images/el-pee-rewards.png)
 
@@ -75,14 +91,14 @@ thanks to the fine folks at coinvise, custom unsiwap integration facilitates a s
 
 <div class="table-container">
   <table>
-    <tr><th>tier</th><th>liquidity amount</th><th>duration</th><th>reward (member)</th><th>total claims</th></tr>
-    <tr><td><a href="https://www.coinvise.co/gami/el-pee-gold" target="_blank">gold</a></td><td>$1,000 USD</td><td>42 days</td><td>10,000,000</td><td>30</td></tr>
-    <tr><td><a href="https://www.coinvise.co/gami/el-pee-silver" target="_blank">silver</a></td><td>$500 USD</td><td>35 days</td><td>3,500,000</td><td>100</td></tr>
-    <tr><td><a href="https://www.coinvise.co/gami/el-pee-bronze" target="_blank">bronze</a></td><td>$100 USD</td><td>28 days</td><td>500,000</td><td>300</td></tr>
+    <tr><th>tier</th><th>liquidity amount</th><th>duration</th><th>reward (member)</th></tr>
+    <tr><td><a href="https://www.coinvise.co/gami/el-pee-gold" target="_blank">gold</a></td><td>$1,000 USD</td><td>42 days</td><td>10,000,000</td></tr>
+    <tr><td><a href="https://www.coinvise.co/gami/el-pee-silver" target="_blank">silver</a></td><td>$500 USD</td><td>35 days</td><td>3,500,000</td></tr>
+    <tr><td><a href="https://www.coinvise.co/gami/el-pee-bronze" target="_blank">bronze</a></td><td>$100 USD</td><td>28 days</td><td>500,000</td></tr>
   </table>
 </div>
 
-claims are open and early liquidity providers, who've supported the project since day one, are encouraged to visit our convise claims page once the 28 day minimum has been met. if you're unsure if this is you, simply check days since your relevant transactions on basescan.
+claims are open and early liquidity providers, who've supported the project since early on, are encouraged to visit our convise claims page once the 28 day minimum has been met. if you're unsure if this is you, simply check days since your relevant transactions on basescan.
 
 members can add liquidity [here](https://app.uniswap.org/add/ETH/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9/3000?minPrice=0.0000000000000000000000000000000000000029543&maxPrice=338490000000000000000000000000000000000).
 

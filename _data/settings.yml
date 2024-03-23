@@ -37,8 +37,6 @@ menu_settings:
         title: "/in"
     - title: 'telegram'
       exturl: 'https://t.me/member_clinic'
-    - title: 'memes'
-      exturl: 'https://uplink.wtf/member/mintboard'
     - title: 'chart'
       exturl: 'https://dexscreener.com/base/0xa4efe9e8e2a2d5a2ac46805f233b8e49d0e11955'
     - title: 'dao'
@@ -60,7 +58,7 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_name: 'memes is money'
+  author_name: '$member'
   author_avatar: "/images/01-1.jpg"
 
 
@@ -68,8 +66,8 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_title: member is a memecoin
-  hero_description: member is certified organic, nutting edge technology on base. helps you thrustle harder on the way to phalhalla. full throbble. seize the memes of reproduction. the dicker is $member
+  hero_title: seize the memes of reproduction
+  hero_description: member is certified organic, nutting edge technology on base. helps you thrustle harder on your way to phalhalla. full throbble. this coin is for members only. the dicker is $member
 
 # Hero Logos
 hero_logos:
@@ -185,8 +183,6 @@ faq:
       description: the max total supply is 4,025,000,000 member (that's 4.025 billion)
     - title: are there any airdrops?
       description: 50% of the member supply was distributed through airdrops which are now completed
-    - title: is there liquidity mining?
-      description: 20% of the member supply is being distributed as rewards to liquidity providers
     - title: are there memelord rewards?
       description: 5% of the member supply is being distributed as rewards to the best meme creators
     - title: does member only go up?
@@ -198,7 +194,7 @@ faq:
     - title: what are the tokenomics?
       description: 50% community through airdrops to gami's nft collectors • 20% LP rewards • 14% initial liquidity pool (dao held) • 10% ecosystem fund (dao held) • 5% meme rewards • 1% protocol guild pledge
     - title: is liquidity locked?
-      description: the initial uniswap v3 liquidity position is held by member dao which is fully onchain just like nouns dao
+      description: the initial uniswap v3 liquidity position is held by member dao which is fully onchain just like nouns dao. our largest liquidity position raised through a party crowdfund has been sent to 0x...dead
     - title: cunnilingo?
       description: 'some member lingo: member go up, member go hard, the dicker is member, hard money, nutting edge technology, the future of memberships, fac, facker, facking, phalhalla, phalhalla awaits, fack your way to phalhalla, the englengthened ones, full sack developer, decircumsised autenormous organstation, seize the memes of reproduction, united states dongers, 1 member > 1 dong, stablecoitus, proof of jerk, scrotocol, base token, hold member, go up, show me your member, certified organic, buy the dip • sell the tip, comes in handy, testemoanials, long member, short member, member of society, !size, fapcaster, full throbble, thrustle harder, all time hard, market fap, just the tip'
 
