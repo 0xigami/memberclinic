@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>member</title>
-        <description>is member a memecoin? fack around and find out 🫡</description>
+        <description>seize the memes of reproduction. cast in /members-only to earn rewards!</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Mar 2024 21:33:20 +1100</pubDate>
-        <lastBuildDate>Sat, 23 Mar 2024 21:33:20 +1100</lastBuildDate>
+        <pubDate>Sun, 24 Mar 2024 16:19:17 +1100</pubDate>
+        <lastBuildDate>Sun, 24 Mar 2024 16:19:17 +1100</lastBuildDate>
         <generator>Jekyll v4.3.2</generator>
         
             <item>
