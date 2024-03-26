@@ -36,7 +36,7 @@ menu_settings:
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: 'https://matcha.xyz/tokens/base/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9'
+  cta_button_link: 'https://app.uniswap.org/swap?outputCurrency=0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9&chain=base'
   cta_button_text: buy now
 
 
@@ -201,7 +201,7 @@ author_section:
   author_section_image: "/images/fafo.png"
   author_section_image_alt: fafo
   author_section_button_text: buy member now
-  author_section_button_link: "https://matcha.xyz/tokens/base/0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9"
+  author_section_button_link: "https://app.uniswap.org/swap?outputCurrency=0x7d89e05c0b93b24b5cb23a073e60d008fed1acf9&chain=base"
 
 
 #-------------------------------
