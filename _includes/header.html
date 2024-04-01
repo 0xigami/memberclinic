@@ -28,8 +28,8 @@
                 <span class="nav__link dropdown-toggle">{{ item.title }} <i class="fa-solid fa-chevron-down arrow-down"></i></span>
                 <div class="dropdown-menu">
                 {% for submenu-item in item.submenu %}
-                {% if item.exturl %}
-                  <a href="{{ submenu-item.exturl }}" class="nav__link{% if page.exturl == submenu-item.exturl %} active-link{% endif %}" target="_blank">{{submenu-item.title}}</a>
+                {% if submenu-item.exturl %}
+                  <a href="{{ submenu-item.exturl }}" class="nav__link" target="_blank">{{submenu-item.title}}</a>
                 {% else %}
                   <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
                 {% endif %}
