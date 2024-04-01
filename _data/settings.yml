@@ -22,10 +22,13 @@ menu_settings:
       exturl: 'https://warpcast.com/~/channel/members-only'
     - title: 'telegram'
       exturl: 'https://t.me/member_clinic'
-    - title: 'chart'
-      exturl: 'https://dexscreener.com/base/0xa4efe9e8e2a2d5a2ac46805f233b8e49d0e11955'
+    - title: 'charts'
+      submenu:
+      - exturl: "https://dexscreener.com/base/0xa4efe9e8e2a2d5a2ac46805f233b8e49d0e11955"
+        title: "dexscreener"
+      - exturl: "https://www.dextools.io/app/en/base/pair-explorer/0xa4efe9e8e2a2d5a2ac46805f233b8e49d0e11955"
+        title: "dextools"
     - title: 'dao'
-      exturl: 'https://nouns.build/dao/base/0xFBfe187b444798214Dd4BbfAdE369F8DC3864C6a'
       submenu:
       - exturl: "https://nouns.build/dao/base/0xFBfe187b444798214Dd4BbfAdE369F8DC3864C6a"
         title: "join dao"
